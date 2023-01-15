@@ -1,0 +1,51 @@
+.arkaplan{
+    margin-left: 160px;
+    width: 1000px;
+    height: 600px;
+    margin-top: 20px;
+    background-color: #f2f2f2;
+    box-shadow: 10px 10px 10px 10px;
+}
+
+.baslik{
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+    margin-top: 10px;
+}
+
+#text{
+    margin-left: 100px;
+    border-radius: 30px;
+    border-color:  #ff8533;
+    width: 600px;
+    height: 30px;
+}
+
+#btnsave{
+    width: 120px;
+    height: 40px;
+    background: transparent;
+    border-radius: 30px;
+    border-color: #ff8533;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+#list{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#list li{
+    border-radius: 30px;
+    border: solid;
+    border-color: aqua;
+    width: 600px;
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    
+}
